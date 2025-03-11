@@ -6,4 +6,4 @@
 
 ## Here's Demo URI : https://ecom-seller-plus.netlify.app/
 
-![Image](https://github.com/user-attachments/assets/5d2f01ab-194d-4b80-a86b-dd5559d961ec)
+![Image](https://github.com/user-attachments/assets/aacce137-df38-4a74-8b4c-cf29c1f7b6ba)
